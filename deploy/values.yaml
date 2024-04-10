@@ -8,7 +8,7 @@ image:
   repository: diname7/nlw.service.passin
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 'b62d520'
+  tag: 'fe7ab71'
   port: 3333
 
 imagePullSecrets: []

@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: passin
-          image: diname7/nlw.service.passin:b62d520
+          image: diname7/nlw.service.passin:fe7ab71
           env:
             - name: DATABASE_URL
               valueFrom:
